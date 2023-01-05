@@ -1,1 +1,1 @@
-hello, This is git practice lession. Just I want to clarufy that how much I can remember the git comanda. Thank you to reachout to me.
+hello, This is git practice lession. Just I want to clarufy that how much I can remember the git comanda. Thank you to reachout to me. Now I woul like to share with my friends and new lerners how I think about git-hub and how I can mangage that.
